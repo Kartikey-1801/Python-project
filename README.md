@@ -1,1 +1,2 @@
 # Python-project
+This repository contains a Customer Churn Analysis project for a telecommunications company. Using Python and libraries like Pandas, NumPy, Matplotlib, and Seaborn, the project explores factors contributing to customer churn. Key insights and findings are summarized in a detailed PDF report. The project aims to help the company understand churn patterns and improve customer retention strategies.
